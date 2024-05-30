@@ -1,6 +1,6 @@
 # Job Planet
 
-## Go To [Figma](https://www.figma.com/design/lliuR55V8JHhYappuGZLXn/Job-Planet?node-id=0-1&t=N7kh5OqMnmJmxFnC-0)
+## Go To [Figma](https://www.figma.com/design/lliuR55V8JHhYappuGZLXn/Job-Planet?node-id=0-1&t=1d7NbsIqeExxLEUZ-1)
 
 ## Overview
 
